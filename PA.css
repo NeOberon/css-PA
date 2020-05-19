@@ -19,10 +19,6 @@
   --vertigradrm: linear-gradient(#e79796, #f5cec7);
 }
 
- *{
-	box-sizing:border-box;
-}
-
 .container{
   width: 900px;
   height: 655px;
