@@ -20,8 +20,8 @@
 }
 
  *{
-   margin: 0;
- }
+	box-sizing:border-box;
+}
 
 .container{
   width: 900px;
